@@ -1,3 +1,5 @@
+# Please read the lab report pdf for full description of the project
+
 ## VARIABLE/FUNCTION ADDITIONS TO CODE:
 ```
 - defvar *state0*
